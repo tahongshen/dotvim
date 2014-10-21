@@ -105,3 +105,15 @@ map <s-tab> :bp<cr>
 map <tab> :bn<cr>
 map ,bd :bd<cr>
 
+
+
+""""""""""""""""""""""""""""""""""""""""
+"
+""            vim-airline
+"
+"""""""""""""""""""""""""""""""""""""""""
+set laststatus=2 
+set t_Co=256 
+let g:airline_powerline_fonts = 1
+
+
